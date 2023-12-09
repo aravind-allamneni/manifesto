@@ -8,6 +8,8 @@ export const GET = async (request, { params }) => {
       description:
         "Restore PRAJA DARBAR at the CM camp office. MLA will hold regular PRAJA DARBARS",
       image: "/assets/good_governance.png",
+      link: "/prajadarbar",
+      cost: 0,
     },
     {
       title: "Free travel for women in TSRTC",
@@ -17,6 +19,8 @@ export const GET = async (request, { params }) => {
       description:
         "Free travel for women in TSRTC buses(Ordinary, Express, City & Metro) across the state",
       image: "/assets/mahalakshmi.png",
+      link: "/freetravel",
+      cost: "2,200 cr",
     },
     {
       title: "Action on BRS Govt Corruption",
