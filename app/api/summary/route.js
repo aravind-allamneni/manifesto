@@ -132,7 +132,7 @@ export const GET = async (request, { params }) => {
       category: "Cheyutha",
       _id: 15,
       description:
-        "Monthly pension of Rs. 4,000 will be provided to senior citizens, widows, disabled, beedi workers, single women, today tappers, weavers, AIDS and Filaria patients and kidney patients undergoing dialysis.",
+        "Monthly pension of Rs. 4,000 will be provided to senior citizens, widows, disabled, beedi workers, single women, toddy tappers, weavers, AIDS and Filaria patients and kidney patients undergoing dialysis.",
       image: "/assets/cheyutha.png",
     },
     {
